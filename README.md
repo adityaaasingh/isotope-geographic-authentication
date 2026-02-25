@@ -22,9 +22,11 @@ Australian samples formed a tight isotopic cluster.
 The pilot sample lay outside the Australian 95% confidence region.
 
 PCA Score Plot
+<img width="788" height="485" alt="pca_score_plot" src="https://github.com/user-attachments/assets/483a7fd3-88e8-41a1-9288-864b48148ac2" />
 
 
 PCA Variable Plot
+<img width="553" height="485" alt="pca_variable_plot" src="https://github.com/user-attachments/assets/71138398-3ebb-439c-8a8b-cf4110ce8089" />
 
 
 Tech Stack:

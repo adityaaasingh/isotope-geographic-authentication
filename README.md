@@ -2,6 +2,8 @@
 
 Isotope Geographic Authentication (Lactoferrin)
 
+***I don't have permission to make the dataset used publicly available***
+
 Executive Summary: 
 - This project applies multivariate stable isotope analysis (δ¹³C, δ¹⁵N, δ³⁴S) to determine whether lactoferrin samples can be differentiated by country of origin.
 - Using Principal Component Analysis (PCA), clear country-level clustering was observed. A pilot sample labelled as Australian was found to be isotopically inconsistent with confirmed Australian reference samples.
